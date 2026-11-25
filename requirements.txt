@@ -1,0 +1,10 @@
+# Colab already provides everything except obspy and cartopy; this file is for running locally.
+obspy>=1.4.2
+cartopy>=0.22
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.8
+requests>=2.31
+folium>=0.15   # optional, for the interactive map
+jupyter
